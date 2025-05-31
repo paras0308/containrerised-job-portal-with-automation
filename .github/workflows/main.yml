@@ -54,4 +54,4 @@ jobs:
             --service jobportal-ecs-service \
             --force-new-deployment \
             --region ${{ secrets.AWS_REGION }}
-AWS_ACCESS_KEY_ID
+AKIA2OAJTPNJRJ5SHUSX
