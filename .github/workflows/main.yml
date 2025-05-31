@@ -54,4 +54,3 @@ jobs:
             --service jobportal-ecs-service \
             --force-new-deployment \
             --region ${{ secrets.AWS_REGION }}
-AKIA2OAJTPNJRJ5SHUSX
